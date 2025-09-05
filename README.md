@@ -2,7 +2,7 @@
 
 ## About Me
 
-
+I am a traveler in the world of technology, which fascinates me every time with something new and keeps me excited about the field of Computer Science. I am a curious, hardworking, and passionate Software Engineer, deeply interested in building applications, collaborating on projects, and solving problems. I am always open to interesting ideas related to this field and welcome opportunities for collaboration. I hold a Master’s degree in Computer Science, along with a Bachelor’s in the same field. Feel free to connect with me through my LinkedIn profile at the end of this page.
 
 ---
 

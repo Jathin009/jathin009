@@ -4,26 +4,24 @@
 🚀 Aspiring Software Engineer | Data Engineer | AI Enthusiast  
 
 ---
- 
-## 🛠️ Tech Stack  
 
 ## 🛠️ Tech Stack  
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="65"/><br>Java</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="65"/><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=spring" height="65"/><br>Spring</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="80"/><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="80"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" height="80"/><br>Spring</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="65"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="65"/><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="65"/><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="80"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="80"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="80"/><br>Docker</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" height="65"/><br>Kubernetes</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" height="65"/><br>Google Cloud</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="65"/><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" height="80"/><br>Kubernetes</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" height="80"/><br>Google Cloud</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="80"/><br>MongoDB</td>
   </tr>
 </table>
 

@@ -7,15 +7,10 @@
  
 ## 🛠️ Tech Stack  
 
-![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![spring](https://skillicons.dev/icons?i=spring)  
-![docker](https://skillicons.dev/icons?i=docker) ![kubernetes](https://skillicons.dev/icons?i=kubernetes) ![gcp](https://skillicons.dev/icons?i=gcp)  
-![mysql](https://skillicons.dev/icons?i=mysql) ![mongodb](https://skillicons.dev/icons?i=mongodb) ![git](https://skillicons.dev/icons?i=git)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,spring,js,react" height="60" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,mysql,mongodb,git" height="60" />
+</p>
 
 ---
 

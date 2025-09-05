@@ -1,7 +1,8 @@
 # Hi, I'm Jathin 👋  
 
-💻 Computer Science Graduate Student @ Portland State University  
-🚀 Aspiring Software Engineer | Data Engineer | AI Enthusiast  
+## About Me
+
+
 
 ---
 

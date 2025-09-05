@@ -4,16 +4,12 @@
 🚀 Aspiring Software Engineer | Data Engineer | AI Enthusiast  
 
 ---
+ 
+## 🛠️ Tech Stack  
 
-## 🛠️ Skills & Technologies  
-
-### Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-### Frameworks & Tools  
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![spring](https://skillicons.dev/icons?i=spring)  
+![docker](https://skillicons.dev/icons?i=docker) ![kubernetes](https://skillicons.dev/icons?i=kubernetes) ![gcp](https://skillicons.dev/icons?i=gcp)  
+![mysql](https://skillicons.dev/icons?i=mysql) ![mongodb](https://skillicons.dev/icons?i=mongodb) ![git](https://skillicons.dev/icons?i=git)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  

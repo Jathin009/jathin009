@@ -8,23 +8,54 @@ I am a traveler in the world of technology, which fascinates me every time with 
 
 ## 🛠️ Tech Stack  
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="80"/><br>Java</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="80"/><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=spring" height="80"/><br>Spring</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="80"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="80"/><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="80"/><br>Docker</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" height="80"/><br>Kubernetes</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" height="80"/><br>Google Cloud</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="80"/><br>MongoDB</td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=python" width="60"/> 
+  <img src="https://skillicons.dev/icons?i=java" width="60"/> 
+  <img src="https://skillicons.dev/icons?i=js" width="60"/> 
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="40"/> 
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=mysql" width="60"/> 
+</p>
+
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=postgres" width="60"/> 
+  <img src="https://skillicons.dev/icons?i=mongodb" width="60"/> 
+  <img src="https://skillicons.dev/icons?i=spring" width="60"/> 
+</p>
+
+<p align="center">
+  <!-- Row 4 -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=react" width="60"/> 
+  <img src="https://skillicons.dev/icons?i=nodejs" width="60"/> 
+</p>
+
+<p align="center">
+  <!-- Row 5 -->
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="40"/> 
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=django" width="60"/> 
+</p>
+
+<p align="center">
+  <!-- Row 6 -->
+  <img src="https://skillicons.dev/icons?i=gcp" width="60"/> 
+  <img src="https://skillicons.dev/icons?i=aws" width="60"/> 
+  <img src="https://skillicons.dev/icons?i=docker" width="60"/> 
+</p>
+
+<p align="center">
+  <!-- Row 7 -->
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="40"/> 
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=github" width="60"/> 
+</p>
 
 
 ---

@@ -7,10 +7,26 @@
  
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,js,react" height="60" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,mysql,mongodb,git" height="60" />
-</p>
+## 🛠️ Tech Stack  
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="65"/><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="65"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" height="65"/><br>Spring</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="65"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="65"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="65"/><br>Docker</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" height="65"/><br>Kubernetes</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" height="65"/><br>Google Cloud</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="65"/><br>MongoDB</td>
+  </tr>
+</table>
+
 
 ---
 

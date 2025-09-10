@@ -34,15 +34,8 @@ I am a traveler in the world of technology, which fascinates me every time with 
     <td align="center"><img src="https://skillicons.dev/icons?i=gcp" height="65"/><br>Google Cloud</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=aws" height="65"/><br>AWS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="65"/><br>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" height="65"/><br>Kubernetes</td>
-    <td align="center"><img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="40"/><br>JUnit</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="40"/><br>PyTest</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" height="65"/><br>GitHub</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center"><img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="40"/><br>JUnit</td>
   </tr>
 </table>
 

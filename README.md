@@ -6,6 +6,29 @@ I am a traveler in the world of technology, which fascinates me every time with 
 
 ---
 
+## 📂 Highlight Projects  
+
+🔹 **Healthcare Scheduling System**  
+Optimized doctor-patient scheduling using interval trees to prevent booking conflicts.  
+_Tech: Java, SQL, Data Structures_
+
+🔹 **YouTube Multi-Language Translator**  
+Flask app that translates video descriptions using Google APIs, deployed with Docker on GCP.  
+_Tech: Python, Flask, GCP, Docker_
+
+🔹 **TriMet Data Processing Pipeline**  
+Built a system to process and analyze GPS breadcrumb data to evaluate public transport efficiency.  
+_Tech: Python, APIs, Data Engineering_
+
+---
+
+## 🏆 Achievements  
+
+- 🚀 Improved SQL query performance by **65%** during internship at Entro Labs.  
+- 📊 Contributed to **15+ APIs** and supported CI/CD pipelines.  
+- 🏅 Presented research projects on AI, Cloud Systems, and Data Engineering.  
+
+---
 ## 🛠️ Tech Stack  
 
 <table align="center">
@@ -38,33 +61,6 @@ I am a traveler in the world of technology, which fascinates me every time with 
     <td align="center"><img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="40"/><br>JUnit</td>
   </tr>
 </table>
-
-
-
-
----
-
-## 📂 Highlight Projects  
-
-🔹 **Healthcare Scheduling System**  
-Optimized doctor-patient scheduling using interval trees to prevent booking conflicts.  
-_Tech: Java, SQL, Data Structures_
-
-🔹 **YouTube Multi-Language Translator**  
-Flask app that translates video descriptions using Google APIs, deployed with Docker on GCP.  
-_Tech: Python, Flask, GCP, Docker_
-
-🔹 **TriMet Data Processing Pipeline**  
-Built a system to process and analyze GPS breadcrumb data to evaluate public transport efficiency.  
-_Tech: Python, APIs, Data Engineering_
-
----
-
-## 🏆 Achievements  
-
-- 🚀 Improved SQL query performance by **65%** during internship at Entro Labs.  
-- 📊 Contributed to **15+ APIs** and supported CI/CD pipelines.  
-- 🏅 Presented research projects on AI, Cloud Systems, and Data Engineering.  
 
 ---
 
